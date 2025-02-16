@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋, I'm Connor, a Computer Science & Engineering student at UCI
+
+Let's get in touch! Find me on [Linkedin](https://www.linkedin.com/in/connorauyong/), View my [resume](https://con169.github.io/personal-website/resume/ConnorAuyongResume2024.pdf), or send me an [email](mailto:connorauyong@gmail.com)
 
 <!--
 **con169/con169** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
